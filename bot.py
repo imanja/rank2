@@ -10,7 +10,7 @@ DISCORD_TOKEN = "NDQzMjA0ODA0NDcxNDIyOTk3.DdKHFw.QWnr3Q_ymUB_xMPEiWzUStWVU3I"
 
 FORTNITE_API_KEY = 'ea5ffa46-76a0-426c-a2e8-8b9c6084ee96'
 
-LISTE = ['Common', 'Common', 'Common', 'Uncommon', 'Uncommon', 'Rare', 'Rare', 'Epic', 'Legendary', 'Mythic", 'Mythic']
+LISTE = ['Common', 'Common', 'Common', 'Uncommon', 'Uncommon', 'Rare', 'Rare', 'Epic', 'Legendary', 'Mythic"]
 WOOD_B = 0.00
 WOOD_E = 0.99
 CARTON_B = 1.00
