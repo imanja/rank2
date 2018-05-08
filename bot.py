@@ -215,6 +215,6 @@ async def on_ready():
     print(client.user.id)
     print('------')
 
-client.run(DISCORD_TOKEN)
+client.run(NDQzMjA0ODA0NDcxNDIyOTk3.DdKHFw.QWnr3Q_ymUB_xMPEiWzUStWVU3I)
 
 
